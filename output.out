@@ -1,0 +1,6 @@
+DFS
+Duong di ngan nhat tu 3 den 15 la:
+3=>0=>4=>9=>11=>12=>14=>15
+Do dai duong di la : 719
+Memory: VM: 7520 KB; RSS: 4788KB
+Duration time DFS: 3.572 miliseconds
